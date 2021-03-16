@@ -1,0 +1,512 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.7f1 (c53830e277f1) revision 12924976'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.867; Version 2004; 64bit' Language: 'en' Physical Memory: 32742 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/JanJan/Documents/GitHub/Capstone-F6-Empowered_Thinking/EmpoweredThinking
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51795
+Successfully changed project path to: C:/Users/JanJan/Documents/GitHub/Capstone-F6-Empowered_Thinking/EmpoweredThinking
+C:/Users/JanJan/Documents/GitHub/Capstone-F6-Empowered_Thinking/EmpoweredThinking
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 53.04 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.7f1 (c53830e277f1)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/JanJan/Documents/GitHub/Capstone-F6-Empowered_Thinking/EmpoweredThinking/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K4000 (ID=0x11fa)
+    Vendor:   
+    VRAM:     3029 MB
+    Driver:   27.21.14.5206
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56500
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll
+Registered in 0.007244 seconds.
+Native extension for Lumin target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 50.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.589 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001998 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.859 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 0.92 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1555.
+Total: 4.003100 ms (FindLiveObjects: 0.432900 ms CreateObjectMapping: 0.143700 ms MarkObjects: 3.275600 ms  DeleteObjects: 0.148600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Action RPG Music 1.3/01town2.wav
+  artifactKey: Guid(18fa7f85faaee95408b6f749a5990a23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/01town2.wav using Guid(18fa7f85faaee95408b6f749a5990a23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b8c83085bb487f8974cf4eff4245d11') in 0.272404 seconds
+  Import took 0.275878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Action RPG Music 1.3/04forest5.wav
+  artifactKey: Guid(b25699b930ca8f24c8bb73149eec0615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/04forest5.wav using Guid(b25699b930ca8f24c8bb73149eec0615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43a338291de1276fbe416f3fa0cfd88d') in 0.030938 seconds
+  Import took 0.035138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Action RPG Music 1.3/09battle8.wav
+  artifactKey: Guid(b5eeef0b353a9334bab458724e62e1ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/09battle8.wav using Guid(b5eeef0b353a9334bab458724e62e1ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5478db9d919e13713976e9304a399924') in 0.033176 seconds
+  Import took 0.036358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Action RPG Music 1.3/07island1v1.wav
+  artifactKey: Guid(d85d3899973eab1429ba88aeea28a002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/07island1v1.wav using Guid(d85d3899973eab1429ba88aeea28a002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45deed382955500e13316e5f39703f19') in 0.033198 seconds
+  Import took 0.037160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Action RPG Music 1.3/01town1.wav
+  artifactKey: Guid(c96867f6777a7814a8683df6eca37afa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/01town1.wav using Guid(c96867f6777a7814a8683df6eca37afa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9649871b1b7b9c90088b0a0e97605d12') in 0.032938 seconds
+  Import took 0.037973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Action RPG Music 1.3/10credits1.wav
+  artifactKey: Guid(db1c93a6efe2c6f45923fd4641074569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/10credits1.wav using Guid(db1c93a6efe2c6f45923fd4641074569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35a5e5f36ea8805c697a23bb5c7a2b60') in 0.033989 seconds
+  Import took 0.039157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Action RPG Music 1.3/05cave3.wav
+  artifactKey: Guid(509b714987751894ea3ae2ac980e7304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/05cave3.wav using Guid(509b714987751894ea3ae2ac980e7304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29ae8719a9e3fe1293f8b8a0e16f5762') in 0.034341 seconds
+  Import took 0.038770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000499 seconds.
+  path: Assets/Action RPG Music 1.3/14doorNL.wav
+  artifactKey: Guid(50d66a89bc04b08469776171717573c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/14doorNL.wav using Guid(50d66a89bc04b08469776171717573c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb4bf7ec79da762c6168957103366880') in 0.042143 seconds
+  Import took 0.046476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Action RPG Music 1.3/11minigame1.wav
+  artifactKey: Guid(968f5db6df9e1454497748f5250ef7f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/11minigame1.wav using Guid(968f5db6df9e1454497748f5250ef7f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba86588dd8575fe087211dd968363cdd') in 0.040467 seconds
+  Import took 0.043548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/Action RPG Music 1.3/07island1v2.wav
+  artifactKey: Guid(15ac5489406ebc34e9e090123e319c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/07island1v2.wav using Guid(15ac5489406ebc34e9e090123e319c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20887710344cd9866a77d66d4a817e46') in 0.036459 seconds
+  Import took 0.040138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Action RPG Music 1.3/13gameover1V2NL.wav
+  artifactKey: Guid(9a46a92e69e83fa4cb19758be5497575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/13gameover1V2NL.wav using Guid(9a46a92e69e83fa4cb19758be5497575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab8e99a9e57a1547c2efc87cd1630b68') in 0.030142 seconds
+  Import took 0.034116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Action RPG Music 1.3/06castle1.wav
+  artifactKey: Guid(ceb5e78582a3efd4fb9a6b33f2d35618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/06castle1.wav using Guid(ceb5e78582a3efd4fb9a6b33f2d35618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e7c89bc3d525721a79943252f08367e') in 0.029888 seconds
+  Import took 0.033544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Action RPG Music 1.3/08sail1.wav
+  artifactKey: Guid(cf8a8dc92b626a948bf924f3acc59c65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/08sail1.wav using Guid(cf8a8dc92b626a948bf924f3acc59c65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8a7a07a8acadf0ab4651a863d8a3526') in 0.029282 seconds
+  Import took 0.032640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Action RPG Music 1.3/04forest6.wav
+  artifactKey: Guid(0ebb992e4ba08a94abc9bc5899959781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/04forest6.wav using Guid(0ebb992e4ba08a94abc9bc5899959781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b23a3e804d19c1d0fed2db392897ea5f') in 0.029672 seconds
+  Import took 0.032971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Action RPG Music 1.3/13gameover2NL.wav
+  artifactKey: Guid(10eac0b6a54af9f4d95a5abcb012f476) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/13gameover2NL.wav using Guid(10eac0b6a54af9f4d95a5abcb012f476) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1648b17ab48326c66829bb19d8097e98') in 0.031716 seconds
+  Import took 0.035420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Action RPG Music 1.3/14short3NL.wav
+  artifactKey: Guid(aaa9345fc5b00ea40b9cb0abb4bfa928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/14short3NL.wav using Guid(aaa9345fc5b00ea40b9cb0abb4bfa928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd28f2ca30912dfe875b248543e1867b3') in 0.033011 seconds
+  Import took 0.036486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Action RPG Music 1.3/04forest3.wav
+  artifactKey: Guid(650b03d44ee487c499da93c2c40bca17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/04forest3.wav using Guid(650b03d44ee487c499da93c2c40bca17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c22cbd090f8e5fdf7f31c83e52842a97') in 0.031351 seconds
+  Import took 0.034403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Action RPG Music 1.3/13gameover8NL.wav
+  artifactKey: Guid(6c9f08c93a5296949bfc856c43a5479a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/13gameover8NL.wav using Guid(6c9f08c93a5296949bfc856c43a5479a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33fb878152588c32d362e1487667317a') in 0.029371 seconds
+  Import took 0.032510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Action RPG Music 1.3/12win1NL.wav
+  artifactKey: Guid(fd6904045c8e41949ab272ce8c3b9f08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/12win1NL.wav using Guid(fd6904045c8e41949ab272ce8c3b9f08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd2075f6595194982e832ccf4b3ad66e') in 0.031800 seconds
+  Import took 0.034942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Action RPG Music 1.3/13gameover4NL.wav
+  artifactKey: Guid(546059281075e574984d4edba76a20b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/13gameover4NL.wav using Guid(546059281075e574984d4edba76a20b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4110b0189d3995944735a34007800452') in 0.034069 seconds
+  Import took 0.037624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Action RPG Music 1.3/14levelup1NL.wav
+  artifactKey: Guid(4954413055e67524188f589cd74d053c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/14levelup1NL.wav using Guid(4954413055e67524188f589cd74d053c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6521a325d2562d116c5c0f098b9e9004') in 0.027958 seconds
+  Import took 0.031156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Action RPG Music 1.3/12win2NL.wav
+  artifactKey: Guid(168647f9fee82e3438427a080e32aba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/12win2NL.wav using Guid(168647f9fee82e3438427a080e32aba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8da8b13b40ef6e227e2dfb48fea5dbb5') in 0.027276 seconds
+  Import took 0.030473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Action RPG Music 1.3/13gameover1V1NL.wav
+  artifactKey: Guid(b48833ff7c0cc4e42b17ef1b20f9ecf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/13gameover1V1NL.wav using Guid(b48833ff7c0cc4e42b17ef1b20f9ecf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4993f0078ed2659100e283d13a84d3a') in 0.028598 seconds
+  Import took 0.031783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Action RPG Music 1.3/05cave1.wav
+  artifactKey: Guid(c9db73d1a6ceb2043b319ee28ea3d000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/05cave1.wav using Guid(c9db73d1a6ceb2043b319ee28ea3d000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93b78edaad1bb52a99452379b803f5c9') in 0.028795 seconds
+  Import took 0.031616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Action RPG Music 1.3/08travel1.wav
+  artifactKey: Guid(cc62eead172ce2a4bbefbde66119962e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/08travel1.wav using Guid(cc62eead172ce2a4bbefbde66119962e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '792bed5531ff9db9ee164ecb0f3e9cf5') in 0.031543 seconds
+  Import took 0.033699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Action RPG Music 1.3/01town4.wav
+  artifactKey: Guid(1c839fa2a535b1e4585c2731d565dfd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/01town4.wav using Guid(1c839fa2a535b1e4585c2731d565dfd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a3d68f245d6faf356cfc44a461c49be') in 0.030768 seconds
+  Import took 0.033325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Action RPG Music 1.3/02store1.wav
+  artifactKey: Guid(c630ba7ffa7abe44993cb696c3609d58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/02store1.wav using Guid(c630ba7ffa7abe44993cb696c3609d58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c61cd10417824633c4505e25ce5ea56e') in 0.030334 seconds
+  Import took 0.032736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Action RPG Music 1.3/04forest1.wav
+  artifactKey: Guid(c7f9f1e62b73d6744ad4020ed1ef0e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/04forest1.wav using Guid(c7f9f1e62b73d6744ad4020ed1ef0e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56623c8f4660b1b98ec2d24dea621fbb') in 0.031102 seconds
+  Import took 0.033281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Action RPG Music 1.3/14entranceNL.wav
+  artifactKey: Guid(8cf4449f1f1883345a8dab6eab4db240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/14entranceNL.wav using Guid(8cf4449f1f1883345a8dab6eab4db240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8b0dc94cdd9bf725090dd75c323f4b1') in 0.032729 seconds
+  Import took 0.036180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Action RPG Music 1.3/04forest2.wav
+  artifactKey: Guid(24dc1269b3eeb7e42aa8ca43ee57c255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/04forest2.wav using Guid(24dc1269b3eeb7e42aa8ca43ee57c255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae9ab5b86e706003202117fb5b9219a6') in 0.031455 seconds
+  Import took 0.035289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Action RPG Music 1.3/13gameover5NL.wav
+  artifactKey: Guid(328f76fd378aa3d44aabd9cc3299887c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/13gameover5NL.wav using Guid(328f76fd378aa3d44aabd9cc3299887c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92adce8f376ec74aa144cd68be5e26da') in 0.026751 seconds
+  Import took 0.030855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Action RPG Music 1.3/09battle3.wav
+  artifactKey: Guid(1c5047b50b799cc4e82f6cf09039ba76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/09battle3.wav using Guid(1c5047b50b799cc4e82f6cf09039ba76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a8a35673f72b76413601c74ef1b173a') in 0.028772 seconds
+  Import took 0.032650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Action RPG Music 1.3/03bar2NL.wav
+  artifactKey: Guid(8a50e225aad37e447bf344f9d88f4700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/03bar2NL.wav using Guid(8a50e225aad37e447bf344f9d88f4700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c894ef8f17398f830bf9e079c1ac0f54') in 0.026933 seconds
+  Import took 0.029539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Action RPG Music 1.3/08travel4.wav
+  artifactKey: Guid(d24eb19ed729d334da51e43188bd185f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/08travel4.wav using Guid(d24eb19ed729d334da51e43188bd185f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00882da4df1053f77dcb98f252a8fa07') in 0.029491 seconds
+  Import took 0.032119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Action RPG Music 1.3/13gameover9NL.wav
+  artifactKey: Guid(3ac6f6f3c364dd142b409789ed72cedb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/13gameover9NL.wav using Guid(3ac6f6f3c364dd142b409789ed72cedb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5569f4267472ed70005057c54fdd00fa') in 0.031453 seconds
+  Import took 0.033755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Action RPG Music 1.3/13gameover3NL.wav
+  artifactKey: Guid(53cf359ba6723ed46bd1f96e7304cd83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/13gameover3NL.wav using Guid(53cf359ba6723ed46bd1f96e7304cd83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48b49fb751b83ff5a65dc02f22be729c') in 0.029474 seconds
+  Import took 0.031739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Action RPG Music 1.3/14short2NL.wav
+  artifactKey: Guid(f69cee133fe2a4a40ae067ad459d7d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/14short2NL.wav using Guid(f69cee133fe2a4a40ae067ad459d7d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ee9202301bcfdb72dc132ae02b6f486') in 0.031914 seconds
+  Import took 0.034307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Action RPG Music 1.3/02store2.wav
+  artifactKey: Guid(5598b10f4202cfb4fb4f51698069ade7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/02store2.wav using Guid(5598b10f4202cfb4fb4f51698069ade7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58a53299ed12c4e38aa5208493dd4616') in 0.032588 seconds
+  Import took 0.036954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000406 seconds.
+  path: Assets/Action RPG Music 1.3/12win8NL.wav
+  artifactKey: Guid(3e330266602e1a34f9c9226acb49659a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/12win8NL.wav using Guid(3e330266602e1a34f9c9226acb49659a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '783a31f51a0d94508a3d2ae23288ad6f') in 0.027154 seconds
+  Import took 0.030548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Action RPG Music 1.3/03bar1.wav
+  artifactKey: Guid(c4cec0291a10dc64d8d27f015f6bffc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/03bar1.wav using Guid(c4cec0291a10dc64d8d27f015f6bffc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79bd8e8663e0a05f4282bb50f64969a0') in 0.036310 seconds
+  Import took 0.040032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Action RPG Music 1.3/13gameover6NL.wav
+  artifactKey: Guid(951ee10c18100e04f9f56f159ef9b5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/13gameover6NL.wav using Guid(951ee10c18100e04f9f56f159ef9b5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b95bfeda8634d10231483c9e0f05de95') in 0.030025 seconds
+  Import took 0.033794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Action RPG Music 1.3/03bar1.wav
+  artifactKey: Guid(c4cec0291a10dc64d8d27f015f6bffc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/03bar1.wav using Guid(c4cec0291a10dc64d8d27f015f6bffc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79bd8e8663e0a05f4282bb50f64969a0') in 0.026131 seconds
+  Import took 0.029378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Action RPG Music 1.3/01Town0.wav
+  artifactKey: Guid(013251c2b047f564ba21cb7da2daf341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/01Town0.wav using Guid(013251c2b047f564ba21cb7da2daf341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94e5396638e5e9c06f59fa6fed66eca3') in 0.028360 seconds
+  Import took 0.031242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Action RPG Music 1.3/14short1NL.wav
+  artifactKey: Guid(0ba3784f4c1d5df4689af04bc722b31a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/14short1NL.wav using Guid(0ba3784f4c1d5df4689af04bc722b31a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4736060d4f91da1fffe96e1086272894') in 0.032814 seconds
+  Import took 0.036061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Action RPG Music 1.3/14secret1NL.wav
+  artifactKey: Guid(fbf66c7552cfb5c4dae8f28d2ed99d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/14secret1NL.wav using Guid(fbf66c7552cfb5c4dae8f28d2ed99d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '636e447b29889f0d0db1cd66af2a0ba0') in 0.028733 seconds
+  Import took 0.032164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Action RPG Music 1.3/08travel2.wav
+  artifactKey: Guid(ea4d2622de682f7428253cca1618e098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/08travel2.wav using Guid(ea4d2622de682f7428253cca1618e098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '097043ac5a8f83b3f6d85ed68cae4081') in 0.029618 seconds
+  Import took 0.033069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Action RPG Music 1.3/14levelup2NL.wav
+  artifactKey: Guid(13f8e7c2c1b7bb6429222c409839bdd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/14levelup2NL.wav using Guid(13f8e7c2c1b7bb6429222c409839bdd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ec1f167b4ccdbc4f2677495389dc28e') in 0.027421 seconds
+  Import took 0.030130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Action RPG Music 1.3/06castle2.wav
+  artifactKey: Guid(27ae589d4af618948ad65f4a5f4215f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/06castle2.wav using Guid(27ae589d4af618948ad65f4a5f4215f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64f1faab20aeb213aa163fcbf41eef39') in 0.027497 seconds
+  Import took 0.030853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Action RPG Music 1.3/07island2.wav
+  artifactKey: Guid(cf62450d7e35f6e46af6204a4d379f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/07island2.wav using Guid(cf62450d7e35f6e46af6204a4d379f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e929f0399766c9f55c3f81c5fa836088') in 0.044838 seconds
+  Import took 0.048065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Action RPG Music 1.3/09battle2.wav
+  artifactKey: Guid(c7bd3f612533f8d44bcf1fbec5300b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/09battle2.wav using Guid(c7bd3f612533f8d44bcf1fbec5300b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb7f49105bc07ca41c17a94b74cdb8d5') in 0.047855 seconds
+  Import took 0.051608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Action RPG Music 1.3/12win5NL.wav
+  artifactKey: Guid(bbc9cd122808540408c4bd43fddd3810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/12win5NL.wav using Guid(bbc9cd122808540408c4bd43fddd3810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a0067b2bf22d3f4d8426374322256bc') in 0.031261 seconds
+  Import took 0.034370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000638 seconds.
+  path: Assets/Action RPG Music 1.3/14short4NL.wav
+  artifactKey: Guid(24fdb4b180e2df947885e5c3cb91b31a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/14short4NL.wav using Guid(24fdb4b180e2df947885e5c3cb91b31a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53005b4640f015cff90d8a9b356d52f8') in 0.033275 seconds
+  Import took 0.037036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Action RPG Music 1.3/12win5NL.wav
+  artifactKey: Guid(bbc9cd122808540408c4bd43fddd3810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/12win5NL.wav using Guid(bbc9cd122808540408c4bd43fddd3810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a0067b2bf22d3f4d8426374322256bc') in 0.017032 seconds
+  Import took 0.021135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 97.649877 seconds.
+  path: Assets/Action RPG Music 1.3/ActionRPGMusicV1.3.pdf
+  artifactKey: Guid(9cadcd770f64ac6448a8f294a9d687fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action RPG Music 1.3/ActionRPGMusicV1.3.pdf using Guid(9cadcd770f64ac6448a8f294a9d687fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bc554fb13c7ceb14136df9cc7da621f') in 0.022336 seconds
+  Import took 0.028251 seconds .
+
